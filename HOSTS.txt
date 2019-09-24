@@ -1,6 +1,8 @@
 # ASN: AS198605, AS198621, AS36351
 # IPv6: 2a02:26f0:6c00:187::2b0a & 2a02:26f0:6c00:194::2b0a (Akamai International B.V.)
-
+#
+# Avast (AV product only)
+#
 0.0.0.0 a.admob.com
 0.0.0.0 a.fortumo.com
 0.0.0.0 ad.flurry.com
@@ -48,3 +50,27 @@
 0.0.0.0 v7.stats.avast.com
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 wutlar.fortumo.com
+#
+# CCleaner 
+#
+0.0.0.0 license.piriform.com
+0.0.0.0 www.ccleaner.com
+#
+#
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 ipmcdn.avast.com
+0.0.0.0 service.piriform.com
+0.0.0.0 emupdate.avcdn.net
+0.0.0.0 ccleaner.tools.avcdn.net
+0.0.0.0 public.avast.com
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 license.piriform.com
+0.0.0.0 widget.trustpilot.com
+0.0.0.0 secure.ccleaner.com
+0.0.0.0 static-cf.cleverbridge.com
+0.0.0.0 labs.upsellit.com
+0.0.0.0 www.upsellit.com
+0.0.0.0 api.mixpanel.com
+0.0.0.0 dev.visualwebsiteoptimizer.com
+0.0.0.0 seal.digicert.com
+#
